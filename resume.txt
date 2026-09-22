@@ -1,0 +1,96 @@
+APU DAS
+PhD Researcher | Semiconductor Memory and Device Reliability
+College of Semiconductor Research, National Tsing Hua University
+Hsinchu, Taiwan | apu.das@gapp.nthu.edu.tw | +886 910 083 544
+LinkedIn: linkedin.com/in/apu-das | Google Scholar
+RESEARCH PROFILE
+PhD researcher studying hafnium-oxide-based ferroelectric field-effect transistors (FeFETs), with a focus on memory
+reliability, interface defects, and cryogenic operation. Combines device fabrication and electrical characterization from 300
+K to 10 K to connect gate-stack physics with memory performance. Research spans embedded memory, neuromorphic
+devices, and industrial memory-development collaborations. Interested in translating experimental insights into reliable,
+energy-efficient semiconductor memory.
+EDUCATION
+Ph.D. Program, College of Semiconductor Research
+National Tsing Hua University (NTHU), Hsinchu, Taiwan
+2026 – Present
+• Converted from the M.Sc. program to the Ph.D. program in 2026; initially enrolled at NTHU in February 2025.
+• Research advisor: Prof. Sourav De. Study focus: ferroelectric memory, interface engineering, device reliability, and
+cryogenic computing.
+Bachelor of Technology, Electronics and Communication Engineering
+National Institute of Technology (NIT) Agartala, India
+June 2019 – May 2023
+RESEARCH EXPERIENCE
+Graduate Researcher – Ferroelectric Memory Devices
+College of Semiconductor Research, NTHU, Taiwan
+February 2025 – Present
+• Characterize hafnium-oxide FeFETs from 300 K to 10 K to investigate switching behavior and reliability for embedded
+and cryogenic memory.
+• Perform positive-up-negative-down (PUND) measurements directly on degraded transistors’ gate stacks to compare
+polarization response with memory-window loss.
+• Obtain evidence supporting interface-driven endurance degradation: polarization remains measurable after
+memory-window collapse near 104 –105 cycles in the studied devices.
+• Use current–voltage (I–V), capacitance–voltage (C–V), and charge-pumping measurements to investigate charge
+trapping, oxygen-vacancy-related mechanisms, and cycling-induced threshold-voltage shifts.
+• Study FeFET applications in spike-timing-dependent plasticity (STDP) and spiking neural networks.
+Research Assistant – VLSI
+Indian Institute of Technology (IIT) Guwahati, India
+2023 – 2024
+INDUSTRIAL AND COLLABORATIVE PROJECTS
+Advanced Characterization and Reliability
+Taiwan Semiconductor Research Institute (TSRI) project | 2025 – Present
+• Conduct endurance, retention, PUND, and charge-pumping measurements; develop pulse-measurement workflows and
+troubleshoot device behavior with fabrication, process, and equipment teams.
+2TnC DRAM Cell Development
+Powerchip Semiconductor (PSMC) collaboration | 2025
+• Contribute to cell design and process-flow definition, coordinating mask/layout alignment and deposition-related work
+with integration, lithography, and plasma-etch teams.
+FeRAM Chip Tapeout – Ongoing
+Industrial Technology Research Institute (ITRI) project | 2025 – Present
+• Collaborate on ferroelectric random-access memory (FeRAM) layout, integration, and tapeout preparation using TSRI
+
+EDA 2.0 and Cadence.
+SELECTED PUBLICATIONS (5 OF 14)
+Publication record: 14 publications comprising 10 journal articles and 4 conference contributions. Selected first- and
+joint-first-author journal articles are listed below.
+1. “Sub-2 nm Equivalent-Oxide-Thickness Ferroelectric Transistors for Cryogenic Memory and Computing.”
+ACS Nano, 2026. Joint first author.
+2. “Endurance Paradox in Hafnium-Oxide-Based Silicon-Channel Ferroelectric Transistors.”
+ACS Applied Materials & Interfaces, 2026. First author.
+3. “Vacancy-Assisted Polarization-Catastrophe Framework for Wake-Up and Ferroelectricity in Hafnium Oxide.”
+Nano Letters, 2026. Joint first author.
+4. “Long-Term Reliability of Naturally Aged Hafnium-Oxide Ferroelectric Transistors for Energy-Efficient
+Embedded Memory.”
+Cell Reports Physical Science, 2026. Joint first author.
+5. “Spike-Timing-Dependent Learning Dynamics in Silicon-Doped Hafnium-Oxide-Based Ferroelectric
+Field-Effect Transistors.”
+IEEE Journal of the Electron Devices Society, 2025. Joint first author.
+TECHNICAL SKILLS
+Devices and Reliability: FeFETs, FeRAM, DRAM, hafnium-oxide ferroelectrics, high-k metal-gate (HKMG) stacks,
+endurance, retention, charge trapping, interface defects, and root-cause analysis.
+Electrical Characterization: I–V, C–V, PUND, polarization–voltage (P–V), charge pumping, pulse engineering,
+high-temperature testing, and cryogenic measurements to 10 K.
+Instrumentation: Keysight B1500A with waveform generator/fast measurement unit (WGFMU), Keithley 4200A, Radiant
+ferroelectric tester, and cryogenic probe station.
+Fabrication and Integration: Process-flow definition, thin-film deposition, lithography and plasma/dry-etch process
+tracking, mask/layout alignment, and memory-device integration.
+EDA and Programming: Cadence Virtuoso, KLayout, TSRI EDA 2.0, Python, Verilog, VHDL, Matplotlib, QtiPlot, and
+Linux.
+Cleanroom Qualification: TSRI SM01 and SM01-1 fabrication-facility operation qualifications.
+Languages: English (fluent), Bengali (native), Mandarin (basic).
+PATENT ACTIVITY
+• Taiwan patent application filed, March 2025: “Enhanced Independent Dual-Gate Ferroelectric Transistor Memory
+Using a Decoupled Ferroelectric Capacitor Structure.”
+• Patent filing in preparation, 2026: “2TnC Ferroelectric Memory Architecture Optimization,” in collaboration with
+PSMC.
+TEACHING AND RESEARCH COMMUNICATION
+• Served as a teaching assistant for two graduate/undergraduate courses.
+• Presented research at the International Electron Devices and Materials Symposium (IEDMS) and Semiconductor
+Interface Specialists Conference (SISC).
+SCHOLARSHIP MOTIVATION AND CAREER GOALS
+My research has strengthened my interest in understanding why memory devices degrade and how interface engineering
+can improve their reliability. I am applying for the Micron Scholarship to support my doctoral studies and connect my
+research interests with industrial memory challenges. Having studied and conducted research in India and Taiwan, I value
+international collaboration and hope to contribute to an inclusive team through knowledge sharing, respectful
+communication, and cross-disciplinary problem-solving.
+
+
