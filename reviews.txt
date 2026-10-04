@@ -1,0 +1,2243 @@
+*** Reviews for ICEE 2026 ***
+Do not remove any lines beginning with @.
+Replace XX by the numeric score for each question.
+@paper: 1571351337
+### "Alignment Confidence for SEM-to-Layout Inspection Using Normalized Gradient Fields"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571346220
+### "MEMS-Based Dry Microneedle Electrodes Incorporating a PEDOT: PSS, Silver Nanoparticle, and Chitosan Trilayer Coating for Long-Term Wearable EEG Monitoring"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571349726
+### "Oxidation Dynamics as Pattern-Forming Instabilities: A New Perspective on Functional Thin-Film Aging"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571350234
+### "Photo AC Hall on a Thin MAPbBr3 Single Crystal"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571350330
+### "Investigation of Plasma-Enhanced Atomic Layer Deposition of SiN and AlN Interlayers for Diamond/ GaN Integration"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571350550
+### "Dual-Modulation Photo AC Hall Measurements on MAPbBr₃ and CsPbBr₃ Crystals"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571350840
+### "Structure-Aware Graph Learning for DFT Energy Prediction in Binary Crystalline Materials"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353587
+### "Corelated VSM-FMR-MFM/LTEM Characterization of Ferromagnetic Materials"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353618
+### "Heteroepitaxial MOCVD Growth of β-Ga2O3 on 4H-SiC for Power Electronic Applications"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353650
+### "A Low-Cost Automated Probe Station with Layout-Based Wafer Navigation for Rapid Device Characterization"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353685
+### "Development of an Impedance Spectroscopy-Based Methodology for Characterization of Flexible Functional Materials"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353741
+### "On Reverse Förster Resonance Energy Transfer in Alq3/ Cs2AgBiBr6 Double Perovskite Heterostructure"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353778
+### "Sol Gel Synthesis and Ferroelectric Phase Transition of La Doped HfO2 Thin Films on TiN-Coated Silicon Substrates"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353795
+### "Substrate-Dependent Growth Optimization of TbMnO₃ Thin Films by Pulsed Laser Deposition: From Polycrystalline to Epitaxial Multiferroic Oxides"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571353821
+### "Structural and Optical Investigation of Ge97Sn3 Towards Photodetector Application"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354040
+### "Dual Wavelength Band Supercontinuum Source and Its Application in Non-Contact Temperature Measurement of Semiconductors"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354093
+### "Probing Carrier Transport Characteristics in Methylammonium Lead Bromide (MAPbBr3) Single Crystal"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354192
+### "Microwave-Assisted Solvothermal Deposition of Pure-Phase Cu₂O Thin Films"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354254
+### "Sol-Gel Synthesis of Alpha-Quartz Piezoelectric Thin-Film and Its Characterization"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354282
+### "Tuning Optical Properties of Amorphous Tantalum Oxide Films Using Radio Frequency Sputtering"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354294
+### "Record-Low X-Ray Diffraction Line Width in Epitaxial NiO (111) Thin Films Grown on Sapphire via Pulsed Laser Deposition"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354314
+### "Diamond Based Flexible Electronic Sensing Platform for Motion Tracking Applications"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354322
+### "Physics-Informed Sparse Virtual Thermal Metrology via Strategic Sensor Placement"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354341
+### "Reactive Magnetron Sputtering of Crack-Resistant and Hydrogen-Free 800nm Silicon Nitride"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354349
+### "Heat-Assisted Structural Phase Transformation and Polarisation Evolution in Indium Selenide Using Operando-Electron Microscopy"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354434
+### "Back-Gate Insulator CV & NiGe Contact Characterization for All-Sputtered Germanium on Crystalline Insulator (GeOXI) Technology"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354517
+### "Influence of AlN Interlayer on the Crystallinity and Electrical Properties of Piezoelectric AlN Thin Films"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354520
+### "Modeling-Guided Growth of Large-Area MoO2 Thin Films by Powder Source CVD"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354529
+### "Oxygen-Rich Growth of Nickel Oxide for Wide-Bandgap Power Electronics Modulation of Electrical Conductivity Through Oxygen Incorporation"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354534
+### "Strain-Controlled Polymorphic Phase Boundary in Lead-Free Ferroelectric BCZT with Enhanced Dielectric Property"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571354546
+### "FIB-Milled Nanoneedle AFM Tips for Accurate Imaging of High-Aspect-Ratio Structures"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
+@paper: 1571358504
+### "Thermally Assisted Switching of the Anomalous Nernst Signal via Tunable Magnetic States in Strained Mn3Sn Thin Films"
+@type: Reviewer Form
+** OralTalk:
+Can this paper be considered for oral talk (top 25% of submissions)? Please say yes or no
+(viewable by meta reviewers for the paper, chair, conferencechair, TPC member or track chair)
+@T1
+-replace with one or more lines of review text-
+@@
+
+** Relevance and timeliness:
+Rate the importance and timeliness of the topic addressed in the paper within its area of research.
+(viewable by chair or track chair)
+5:Excellent; 4:Good; 3:Acceptable; 2:Little; 1:None
+@S1= XX
+
+** Technical content and scientific rigour:
+Rate the technical content of the paper (e.g.: completeness of the analysis or simulation study, thoroughness, accuracy of the models, efficient performance benchmarking, etc.), its soundness and scientific rigour.
+(viewable by chair or track chair)
+5:Excellent work and outstanding technical content.; 4:Solid work of notable importance.; 3:Valid work but limited contribution.; 2:Marginal work and simple contribution. Some flaws.; 1:Questionable work with severe flaws.
+@S2= XX
+
+** Novelty and originality:
+Rate the novelty and originality of the ideas or results presented in the paper.
+(viewable by chair or track chair)
+5:A pioneering piece of work. Striking novel ideas or results.; 4:Significant original work and novel results.; 3:Some interesting ideas and results on a subject well investigated.; 2:Minor variations on a well investigated subject.; 1:It has been said many times before.
+@S3= XX
+
+** Quality of presentation:
+Rate the paper organization, the clearness of text and figures, the completeness and accuracy of references.
+(viewable by chair or track chair)
+5:Excellent.; 4:Well written.; 3:Readable, but revision is needed in some parts.; 2:Substantial revision work is needed.; 1:Unacceptable.
+@S4= XX
+
+** Strong aspects:
+Comments to the author: what are the strong aspects of the paper
+(viewable by chair or track chair)
+@T2
+-replace with one or more lines of review text-
+@@
+
+** Weak aspects:
+Comments to the author: what are the weak aspects of the paper?
+(viewable by chair or track chair)
+@T3
+-replace with one or more lines of review text-
+@@
+
+** Recommended changes:
+Please indicate any changes that should be made to the paper if accepted.
+(viewable by chair or track chair)
+@T4
+-replace with one or more lines of review text-
+@@
+
+** Comments to the TPC:
+Confidential comments to the TPC (will be not sent to Authors).
+(viewable by chair or track chair)
+@T5
+-replace with one or more lines of review text-
+@@
+
+** Reviewer Declaration of Independency and no AI Usage:
+Tick one of the two boxes.
+(viewable by chair or track chair)
+1:I hereby declare that I have had no recent associations with the authors, such as submitting or publishing a joint paper, being coworker, et similia (cf. IEEE Publication Services and Products Board Operations Manual, Sec. 8.2.2.B) and I have not taken support from any AI agent for preparing the review.; 0:I have had association with authors/I have taken help from AI chatbot to prepare this review. Clearly specify this in "Comments to the TPC".
+@S5= XX
+
+@end
+
