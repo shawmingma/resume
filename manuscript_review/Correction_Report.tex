@@ -1,0 +1,216 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{booktabs,longtable,array}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+
+% Priority tags
+\newcommand{\C}{\textcolor{red}{\textbf{[C]}}}
+\newcommand{\M}{\textcolor{orange}{\textbf{[M]}}}
+\newcommand{\m}{\textcolor{gray}{\textbf{[m]}}}
+\setlist[itemize]{leftmargin=1.6em,itemsep=2pt,topsep=2pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+
+\title{Correction Report\\
+\large ``Cryogenic Reliability in Hafnium Oxide Ferroelectric Transistors''\\
+IEEE TMAT -- Revised Manuscript}
+\author{Review of LaTeX source files}
+\date{17 October 2026}
+
+\begin{document}
+\maketitle
+
+\noindent\textbf{Files covered:} \texttt{01\_Introduction.tex}, \texttt{02\_Results.tex}, \texttt{03\_Discussion.tex}, \texttt{04\_Conclusion.tex}, \texttt{05\_Methods.tex}, \texttt{08\_image.tex}, \texttt{Supplementary.tex}, \texttt{reference.bib}.\\
+\textbf{Not yet seen:} \texttt{main.tex} preamble, Abstract, \texttt{fig7.pdf} source.\\
+\textbf{Priority:} \C\ critical (build / internal contradiction) \quad \M\ major (reviewer request / unsupported claim) \quad \m\ minor (style, typo).
+
+\section*{Summary}
+\begin{center}
+\begin{tabular}{lccc}
+\toprule
+Area & Critical & Major & Minor\\
+\midrule
+Build / cross-file consistency & 9 & 2 & --\\
+Introduction & -- & 3 & 3\\
+Results & 3 & 6 & 15\\
+Discussion & 3 & -- & 1\\
+Conclusion & -- & 1 & 2\\
+Methods & 2 & 6 & 5\\
+Supplementary & 4 & -- & 4\\
+08\_image.tex & 1 & -- & --\\
+reference.bib & 4 & 2 & 6\\
+New data / text required & -- & 8 & --\\
+\bottomrule
+\end{tabular}
+\end{center}
+\textbf{The source will not compile as-is} (bib syntax errors, duplicate labels, \texttt{subfig}+\texttt{subcaption} clash). Fix Section~0 first.
+
+% =====================================================================
+\section*{0. Build-breaking / cross-file consistency}
+\begin{itemize}
+\item \C\ \textbf{0.1} \texttt{reference.bib} will not compile: (i) \texttt{@article\{PyMatching\},} has a stray \texttt{\},} after the key -- delete entry; (ii) stray \texttt{\}} after \texttt{@INPROCEEDINGS\{suman2\}}; (iii) key \texttt{parmar2023demonstration} defined twice -- rename second or delete.
+\item \C\ \textbf{0.2} Duplicate \verb|\label|s: \texttt{fig:1}--\texttt{fig:5} (and all sub-labels) exist in both \texttt{02\_Results.tex} and \texttt{08\_image.tex}; \texttt{fig:S1} in both \texttt{05\_Methods.tex} and \texttt{Supplementary.tex}; \texttt{fig:1a}/\texttt{fig:1b} reused inside Supplementary S1; \texttt{fig:S2} used for both the S2 and S3 figures (second $\rightarrow$ \texttt{fig:S3}).
+\item \C\ \textbf{0.3} Package conflict: Methods/Results use \verb|\subfloat| (\texttt{subfig}); Supplementary uses \verb|\begin{subfigure}| (\texttt{subcaption}). Choose one.
+\item \C\ \textbf{0.4} SiO$_2$ interfacial-layer thickness: Methods ``$\approx$1.2~nm'' vs Supplementary S1 caption ``$\approx$0.85~nm''. Use the TEM value everywhere.
+\item \C\ \textbf{0.5} Cryogenic $C$--$V$ frequency: Methods ``1~kHz'' vs Results \S C ``100-kHz small-signal excitation''; Figs.~3(f), 5 and S2 give no frequency. Decide and state it in every $C$--$V$ caption.
+\item \C\ \textbf{0.6} Channel length: Methods ``15 and 30~$\mu$m''; Fig.~S1 ``15~$\mu$m''; Fig.~1(a) $L=25$; Fig.~1(b) $L=5$; Fig.~3 $L=15$; Fig.~4(a) $L=30$. State which $L$ belongs to which figure.
+\item \C\ \textbf{0.7} Pristine 10~K MW: Fig.~3(e) $\approx$1.15~V vs Fig.~4(b) $\approx$2.3~V at the same $\pm5$~V/50~$\mu$s. Explain (device/geometry) and give $N$ devices.
+\item \C\ \textbf{0.8} $C$--$V$ magnitude $\approx$200~pF (RT) vs $\approx$72~pF (10~K). Give gate area and frequency for every panel.
+\item \C\ \textbf{0.9} Table~I cites ``Wang, JXCDC 2021 [39]'' -- not in the bibliography. The data are Hur \emph{et al.}, JXCDC 2021 (\texttt{CryoShimeng}). Replace all hard-coded [22][36][39][19] with \verb|\cite{coldfefet}|, \verb|\cite{ACSNano1}|, \verb|\cite{CryoShimeng}|, \verb|\cite{agarwal2025}|.
+\item \M\ \textbf{0.10} The $\pm7$~V/1~$\mu$s result exists as Supplementary Fig.~S3 but is never referenced from the main text. Cite it in Results and Conclusion; remove the undefined term ``Scenario~2''.
+\item \M\ \textbf{0.11} Methods is \verb|\input| inside the Supplementary; decide whether it is main text or ``Supplementary Methods'' and label accordingly.
+\end{itemize}
+
+% =====================================================================
+\section*{1. \texttt{01\_Introduction.tex}}
+\begin{itemize}
+\item \m\ \textbf{1.1} ``\ldots architecture.\verb|\cite{...}| These'' -- place \verb|\cite| before the period (two places).
+\item \m\ \textbf{1.2} ``FeFET4,\ \ FeFET6, FeFET5'' -- double space / ordering.
+\item \M\ \textbf{1.3} Irrelevant citations in the low-temperature HfO$_2$ list: \texttt{2019cryogenic} (cryo-EM), \texttt{ko2025} (TMD gate), \texttt{cheng2013} (CeO$_2$ gate), \texttt{li2014} (BaTiO$_3$ domain walls). Replace with relevant uncited entries: \texttt{cryofdsoi}, \texttt{CryoShimeng}, \texttt{asifcryo}, \texttt{sayanicryo2}, \texttt{lederer2024enhanced}, \texttt{cryogenicmemory}.
+\item \m\ \textbf{1.4} \texttt{chakraborty2021} and \texttt{EDL\_2025} cited twice in one paragraph.
+\item \M\ \textbf{1.5} Final paragraph duplicates the Abstract; cut to 3--4 sentences.
+\item \M\ \textbf{1.6} Add why 10~K was chosen and that no data exist below 10~K (Editor M5).
+\end{itemize}
+
+% =====================================================================
+\section*{2. \texttt{02\_Results.tex}}
+\begin{itemize}
+\item \C\ \textbf{2.1} Fig.~1(d): text says ``near $-3$~V''; panel shows the rise at $+3$~V. Rewrite as positive bias / positive-voltage limit. Captions (d) and (f) label $I_{\mathrm{nsw}}$ panels as ``$I_{\mathrm{sw}}$''. State the conduction mechanism (Editor m7).
+\item \C\ \textbf{2.2} ``MW exceeds 1~V under $\pm7$~V, 50~$\mu$s'' -- no such point in Fig.~3(d,e). Use ``$>$1~V at $\pm6$~V/50~$\mu$s and $\approx$1.4~V at $\pm7$~V/20~$\mu$s''.
+\item \C\ \textbf{2.3} \verb|$C$$V$| and \verb|$PV$| $\rightarrow$ \verb|$C$--$V$|, \verb|$P$--$V$| throughout.
+\item \M\ \textbf{2.4} RT ``nearly merge after $\approx10^{4}$ cycles'' -- Fig.~2(a) shows MW$\approx$0.4~V at $10^{4}$; use $10^{5}$.
+\item \M\ \textbf{2.5} Fig.~1(g) ``different programming voltages'' $\rightarrow$ ``different $C$--$V$ sweep amplitudes (1.5--3~V)'' (Editor m6).
+\item \M\ \textbf{2.6} Quantify ``substantially reduced leakage'', ``suppressed leakage'', ``nearly unchanged'', ``comparatively stable'' (Editor m5).
+\item \M\ \textbf{2.7} State explicitly: $V_{\mathrm{th,HVT}}$ shifts $\approx$2~V (Fig.~4b) while $I_{\mathrm{sw}}$ peaks shift $<$0.3~V to $10^{4}$ cycles (Fig.~4c,d) -- the key evidence for an electrostatic origin (Reviewer~1 \#4).
+\item \M\ \textbf{2.8} Explain $V_c$ asymmetry ($|V_c^-|\approx4$~V vs $V_c^+\approx2.5$~V) (Reviewer~1 \#3).
+\item \M\ \textbf{2.9} Fig.~4(g,h): negative peak at $-4$ to $-4.5$~V is at the edge of the $\pm5$~V PUND window; imprint or depolarization is an alternative. Add retention, PUND inter-pulse delay, and a $\pm6$~V PUND at $10^{6}$ (Reviewer~1 \#7).
+\item \m\ \textbf{2.10} ``SiO2'' plain text $\rightarrow$ SiO$_2$.
+\item \m\ \textbf{2.11} Delete the duplicated sentence ``Cycling-induced interface and oxide trapping can then modify\ldots''.
+\item \m\ \textbf{2.12} ``Equation~(6)'', ``equation (10)'' $\rightarrow$ \verb|\eqref{eq:mfis_capacitance}|, \verb|\eqref{eq:charge_compensation}|.
+\item \m\ \textbf{2.13} ``The gate capacitance then approaches.'' -- remove the period.
+\item \m\ \textbf{2.14} ``QP, Qit, Qot, Qinj, and QSi'' $\rightarrow$ math mode.
+\item \m\ \textbf{2.15} Remove trailing colon in \verb|\subsection{...capacitance:}|.
+\item \m\ \textbf{2.16} Figs.~3,~4 captions ``p-Si/SiO$_2$/HZO/TaN'' $\rightarrow$ ``TaN/HZO/SiO$_2$/p-Si''.
+\item \m\ \textbf{2.17} Fig.~4(c)/(d): add ``after $-5$~V / $+5$~V initialization'' (Reviewer~1 \#6).
+\item \m\ \textbf{2.18} Delete commented 4i/4j block; header ``(a--j)'' $\rightarrow$ ``(a--h)''.
+\item \m\ \textbf{2.19} Replace em-dash ``readout---the central distinction'' (Editor m2).
+\item \m\ \textbf{2.20} ``channel.\verb|\cite{ACSAMI}| Cooling'' $\rightarrow$ ``channel\verb|~\cite{ACSAMI}|. Cooling''.
+\item \m\ \textbf{2.21} Fig.~2(a) caption $\pm5$~V vs \texttt{08\_image.tex} $\pm4$~V -- confirm.
+\item \m\ \textbf{2.22} Trim interpretive captions of Figs.~4 and 5 to data + conditions (Editor m8).
+\item \m\ \textbf{2.23} Fig.~1(e) annotation arrow ``significant leakage reduction'' points at the switching peak -- fix in figure file.
+\item \m\ \textbf{2.24} Figure files: ``$P_r$'' axis $\rightarrow$ ``$P$''; remove ``0'' tick on log $I_{DS}$ axes; ``1000Khz'' $\rightarrow$ ``1~MHz''; ``kHZ'' $\rightarrow$ ``kHz''; ``(PF)'' $\rightarrow$ ``(pF)''.
+\end{itemize}
+
+% =====================================================================
+\section*{3. \texttt{03\_Discussion.tex}}
+\begin{itemize}
+\item \C\ \textbf{3.1} Broken sentence ``\ldots polarization-to-channel Cooling to 10~K\ldots'' $\rightarrow$ ``\ldots polarization-to-channel coupling. Cooling to 10~K\ldots''.
+\item \C\ \textbf{3.2} Fig.~7 band diagrams: trapped-charge sign is reversed. The $+5$~V/$10^{6}$ panel shows trapped holes yielding accumulation (holes repel holes $\rightarrow$ depletion); it needs trapped \emph{electrons}. The $-5$~V/$10^{6}$ panel shows trapped electrons yielding depletion; it needs trapped \emph{holes} (consistent with ``hole trapping during erase'' in the Conclusion). Redraw and reconcile with the stable LVT in Fig.~4(b).
+\item \m\ \textbf{3.3} Fig.~7: remove illegible inset $C$--$V$ thumbnails; delete stray ``After cycles: $V=-5$~V'' overlay in the pristine $+5$~V panel; caption $\le$3 sentences.
+\item \C\ \textbf{3.4} Table~I: remove manual ``TABLE I'' and ``Table 1:'' lines; use \verb|\caption{}| with \verb|\label| after it; cite \verb|Table~\ref{tab:cmp}| in text (currently never referenced). Add MW and degradation-mechanism columns (Editor M1).
+\end{itemize}
+
+% =====================================================================
+\section*{4. \texttt{04\_Conclusion.tex}}
+\begin{itemize}
+\item \m\ \textbf{4.1} Literal en-dash ``C–V'' $\rightarrow$ \verb|$C$--$V$|.
+\item \M\ \textbf{4.2} Add one sentence on the $\pm7$~V/1~$\mu$s result (Fig.~S3).
+\item \m\ \textbf{4.3} Mention $N$ devices / reproducibility.
+\end{itemize}
+
+% =====================================================================
+\section*{5. \texttt{05\_Methods.tex}}
+\begin{itemize}
+\item \C\ \textbf{5.1} ``\ldots used to activate The implanted dopants simultaneously crystallize\ldots'' $\rightarrow$ ``\ldots used to activate the implanted dopants and simultaneously crystallize the HZO layer into its ferroelectric phase.''
+\item \C\ \textbf{5.2} SiO$_2$ 1.2~nm vs 0.85~nm (see 0.4).
+\item \M\ \textbf{5.3} RTA temperature and time missing.
+\item \M\ \textbf{5.4} $A_{\mathrm G}$ (used in $P=Q_{\mathrm{sw}}/A_{\mathrm G}$) never given.
+\item \M\ \textbf{5.5} Constant-current $V_{\mathrm{th}}$ criterion value not stated.
+\item \M\ \textbf{5.6} Add: delay between last stress pulse and readout; interruption duration; $C$--$V$ sweep start/direction/rate; PUND rise/fall and inter-pulse delays; confirm timing constant. Annotate in Fig.~S1(b) (Editor M2, Reviewer~1 \#13).
+\item \M\ \textbf{5.7} Number of devices and variability (Editor M6).
+\item \M\ \textbf{5.8} Why 10~K (Editor M5).
+\item \m\ \textbf{5.9} Eq.~(1): ``$MW$'' $\rightarrow$ ``$\mathrm{MW}$''.
+\item \m\ \textbf{5.10} \verb|\label{eq:pund_current}| inside \texttt{align} labels only the second line.
+\item \m\ \textbf{5.11} \verb|$C$$V$| $\rightarrow$ \verb|$C$--$V$| (3$\times$).
+\item \m\ \textbf{5.12} ``nonswitching'' $\rightarrow$ ``non-switching''.
+\item \m\ \textbf{5.13} \verb|\subfloat| vs \texttt{subfigure} (see 0.3).
+\end{itemize}
+
+% =====================================================================
+\section*{6. \texttt{Supplementary.tex}}
+\begin{itemize}
+\item \C\ \textbf{6.1} Manual bold text blocks ``Figure S1.\ldots'' and ``Figure S2.\ldots'' sit under figures that LaTeX numbers S2 and S3 and repeat the \verb|\caption|. Delete the manual blocks.
+\item \C\ \textbf{6.2} \verb|\label{fig:S2}| used twice $\rightarrow$ second = \texttt{fig:S3}.
+\item \C\ \textbf{6.3} S1 caption ``0.85~nm SiO$_2$'', ``$\sim$9~nm HZO'' vs Methods 1.2 / 9.49~nm.
+\item \C\ \textbf{6.4} S1 figure duplicates the Methods Fig.~S1 (same files). Keep one.
+\item \m\ \textbf{6.5} \verb|\graphicspath{}| appears after it is needed; move to preamble.
+\item \m\ \textbf{6.6} \verb|$C$$V$|, \verb|$P$$V$| $\rightarrow$ with ``--''.
+\item \m\ \textbf{6.7} S3 caption: define or delete ``Scenario~2''; state frequency, $W/L$, $N$.
+\item \m\ \textbf{6.8} S2 caption (c,d) ``different read amplitudes'' -- give values.
+\end{itemize}
+
+% =====================================================================
+\section*{7. \texttt{08\_image.tex}}
+\begin{itemize}
+\item \C\ \textbf{7.1} Obsolete file: duplicates every main-text figure and label, still contains Fig.~4(i,j) (removed per Reviewer~1 \#9) and a commented Fig.~6; Fig.~2(a) caption says $\pm4$~V. Remove from \verb|\input| or delete.
+\end{itemize}
+
+% =====================================================================
+\section*{8. \texttt{reference.bib}}
+\begin{itemize}
+\item \C\ \textbf{8.1} Syntax errors (see 0.1).
+\item \C\ \textbf{8.2} Same paper under two keys (reviewer saw [3]=[11]): \texttt{FeFET3}=\texttt{de2022demonstration}; \texttt{FeFET4}=\texttt{de202228}; \texttt{10122209}=\texttt{ma20232}; \texttt{Lederer\_model}=\texttt{lederer2023spice}; \texttt{EDL4}=\texttt{cho2024exploring}; \texttt{80}=\texttt{EDL1}. Keep one key each.
+\item \C\ \textbf{8.3} \texttt{agarwal2025} title uses Unicode subscripts (``$>$10₁₂'') $\rightarrow$ renders ``¿10''. Rewrite with \verb|$>10^{12}$| and \verb|Hf$_{0.5}$Zr$_{0.5}$O$_2$|. Same for \texttt{hoffmann2022}, \texttt{lee2022}.
+\item \C\ \textbf{8.4} \texttt{LFN5} author ``Fleetwood and D., M.'' $\rightarrow$ ``Fleetwood, D. M.''.
+\item \M\ \textbf{8.5} \texttt{ACSNano1}: volume 0 / pages null / year 0 -- fill in.
+\item \M\ \textbf{8.6} \texttt{EDL\_2025} pages ``1-1'' placeholder.
+\item \m\ \textbf{8.7} \texttt{de2022read} ``Yannick, Raffel'' $\rightarrow$ ``Raffel, Yannick''; \texttt{de202228} ``Duenkel'' $\rightarrow$ ``D\"unkel''; \texttt{de2021ultra} remove ``*'' markers.
+\item \m\ \textbf{8.8} ``Advanced Intelligent System'' $\rightarrow$ ``Systems''.
+\item \m\ \textbf{8.9} DOI fields containing braces (\texttt{10.1109/\{TED\}.2024\ldots}) break links; \texttt{SayaniCryo}/\texttt{sayanicryo2} DOI field contains a full URL.
+\item \m\ \textbf{8.10} Key \texttt{Agrawal\_band-diagram} (author is Agarwal; hyphen risky) $\rightarrow$ \texttt{Agarwal\_band\_diagram}.
+\item \m\ \textbf{8.11} Remove unused template leftovers (Abernethy2003, ACS2007, Arduengo*, Eisenstein2005, Coghill2006, Cotton1999, EuropeanCommission2008, Friedman-Hill2003, Johnson1972, Pople2003, Mena2000, eshraghian2021training, PyMatching, ref1ATK, ref2ATK, ohta2014, teherani2014, \ldots).
+\item \m\ \textbf{8.12} \texttt{2019cryogenic} has \texttt{abstract=\{Abstract\}}; drop field.
+\end{itemize}
+
+% =====================================================================
+\section*{9. Still required from the authors (new data / text)}
+\begin{itemize}
+\item \M\ \textbf{9.1} Retention of LVT and HVT at RT and 10~K; PUND timing (Reviewer~1 \#7).
+\item \M\ \textbf{9.2} Readout delay after cycling, held constant (Editor M2).
+\item \M\ \textbf{9.3} $N$ devices; error bars on Fig.~3(e) and Fig.~4(b) (Editor M6).
+\item \M\ \textbf{9.4} Overlays RT vs 10~K: $V_{\mathrm{th}}$ vs cycles (Fig.~2a+4b), $P$--$V$ (Fig.~2f+4e) at equal sweep amplitude (Reviewer~1 \#2, \#12). Note $P_r$ $\pm12$~$\mu$C/cm$^2$ at $\pm3$~V (RT) vs $\pm22$ at $\pm5$~V (10~K) is not directly comparable.
+\item \M\ \textbf{9.5} Fig.~3(e): plot LVT and HVT separately (Reviewer~1 \#5, Editor M3).
+\item \M\ \textbf{9.6} Trapped-charge estimate $\Delta N_t \approx C_g\,\Delta V_{\mathrm{th,HVT}}/(qA_{\mathrm G})$ from Fig.~4(b) (Editor M4).
+\item \M\ \textbf{9.7} Abstract: ``titanium nitride (TaN)'' $\rightarrow$ ``tantalum nitride''; define abbreviations; reduce ``cryogenic'' ($\times$6); $\le$250 words.
+\item \M\ \textbf{9.8} Float placement (\texttt{[t]} / \verb|\FloatBarrier|) so Figs.~4--5 sit where they are discussed (Reviewer~1 \#1).
+\end{itemize}
+
+% =====================================================================
+\section*{Already resolved in this revision}
+\begin{itemize}
+\item Reviewer~1 \#8 -- band-gap values (5.6/9.3~eV), large-signal capacitance text citing Agarwal TED 2024.
+\item Reviewer~1 \#9 -- Fig.~4(i,j) removed from \texttt{02\_Results.tex} (still in \texttt{08\_image.tex}).
+\item Reviewer~1 \#10 -- sentence corrected.
+\item Reviewer~1 \#11 -- dopant freeze-out reassessed.
+\item Editor M1 -- comparison table added (needs bib keys + two columns).
+\item $\pm7$~V/1~$\mu$s data exist as Supplementary Fig.~S3.
+\end{itemize}
+
+\section*{Recommended order of work}
+\begin{enumerate}[leftmargin=1.8em]
+\item Section~0 build blockers.
+\item Internal contradictions (0.4--0.9, 2.1, 2.2, 3.1, 3.2, 5.1).
+\item Bibliography clean-up (Section~8).
+\item Methods additions (5.3--5.8).
+\item New measurements (9.1--9.6).
+\item Fig.~7 redraw, caption trimming, Abstract rewrite.
+\item Point-by-point response letter.
+\end{enumerate}
+
+\end{document}
