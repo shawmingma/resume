@@ -1,0 +1,245 @@
+=====================================================================
+CORRECTION LIST - "Cryogenic Reliability in Hafnium Oxide Ferroelectric
+Transistors" (IEEE TMAT revised)          Generated 2026-10-17
+Covers: 01_Introduction, 02_Results, 03_Discussion, 04_Conclusion,
+        05_Methods, 08_image, Supplementary, reference.bib
+NOT yet seen: main.tex preamble, Abstract (TaN = "titanium nitride" error
+        from the PDF lives there), fig7.pdf source.
+Priority: [C]=critical (build/consistency error), [M]=major (reviewer
+        request / unsupported claim), [m]=minor (style/typo).
+=====================================================================
+
+---------------------------------------------------------------------
+0. BUILD-BREAKING / CROSS-FILE CONSISTENCY
+---------------------------------------------------------------------
+[C] 0.1  reference.bib will NOT compile:
+         - "@article{PyMatching}," -> stray "}," after key. Delete entry.
+         - Stray "}" line after @INPROCEEDINGS{suman2}. Delete.
+         - Key "parmar2023demonstration" defined TWICE (@article and
+           @inproceedings). Rename second to parmar2023vlsitsa or delete.
+[C] 0.2  Duplicate \label across files (wrong cross-refs):
+         - fig:1 ... fig:5 (+ fig:1a..fig:5h) exist in BOTH
+           02_Results.tex and 08_image.tex. 08_image.tex is an obsolete
+           copy (still has 4i/4j, says "+-4 V" in Fig 2a caption). Remove
+           it from \input or delete the file.
+         - fig:S1 defined in 05_Methods.tex AND Supplementary.tex
+           (same two images S1a/S1b shown twice). Keep one.
+         - fig:1a / fig:1b reused inside Supplementary S1 subfigures.
+         - fig:S2 used for BOTH the S2 (RT C-V) and S3 (+-7 V/1 us)
+           figures. Second one -> \label{fig:S3}.
+[C] 0.3  Package conflict: Methods/Results use \subfloat (subfig),
+         Supplementary uses \begin{subfigure} (subcaption). These two
+         packages cannot be loaded together. Pick one.
+[C] 0.4  Interfacial SiO2 thickness contradiction:
+         05_Methods: "approximately 1.2 nm"
+         Supplementary S1 caption: "approximately 0.85 nm"
+         Fix to the TEM value and use it everywhere.
+[C] 0.5  Cryogenic C-V frequency contradiction:
+         05_Methods: "primarily performed at 1 kHz"
+         02_Results (sec. C): "follow the 100-kHz small-signal excitation"
+         Fig 3(f), Fig 5, S2 captions: no frequency stated.
+         Decide, then put the frequency in every C-V caption.
+[C] 0.6  Channel length: Methods text "15 and 30 um"; Fig.S1 caption
+         "15 um"; Fig 1(a) W/L=136/25; Fig 1(b) L=5 um; Fig 4(a) 136/30;
+         Fig 3 136/15. State which L is used in which figure.
+[C] 0.7  Pristine 10 K MW inconsistent: Fig 3(e) ~1.15 V at +-5 V/50 us
+         (L=15 um) vs Fig 4(b) ~2.3 V (L=30 um). Explain and give N
+         devices (Editor M6).
+[C] 0.8  C-V magnitude: RT ~200 pF, 10 K ~72 pF for "same" stack.
+         Specify gate area and frequency for every C-V panel.
+[C] 0.9  Table I row "Wang, JXCDC 2021 [39]" - no [39] in bibliography.
+         The data (TiN/HZO/TiN, 4 K, >3.5e10 cycles) is Hur et al.,
+         JXCDC 2021 = bib key CryoShimeng. Change author to "Hur" and
+         use \cite{CryoShimeng}. Replace ALL hard-coded [22][36][19] in
+         the table with \cite{coldfefet}, \cite{ACSNano1},
+         \cite{agarwal2025}.
+[M] 0.10 +-7 V / 1 us result IS in Supplementary (Fig S3) but is never
+         referenced from the main text. Add in 02_Results and in
+         04_Conclusion: "(Supplementary Fig.~S3)". Remove undefined
+         term "Scenario 2".
+[M] 0.11 Methods is \input inside Supplementary. Main text cites
+         Fig.~\ref{fig:S1} as the methods figure. Decide whether
+         Methods is main text or "Supplementary Methods".
+
+---------------------------------------------------------------------
+1. 01_Introduction (1).tex
+---------------------------------------------------------------------
+[m] 1.1  "...architecture.\cite{...} These" -> \cite before the period
+         (two occurrences).
+[m] 1.2  "FeFET4,  FeFET6, FeFET5" double space / ordering.
+[M] 1.3  Irrelevant citations in the low-temperature HfO2 list:
+         2019cryogenic (cryo-EM), ko2025 (TMD gate), cheng2013 (CeO2
+         gate), li2014 (BaTiO3 domain walls, also cited for FeFET
+         trapping). REMOVE; replace with relevant uncited bib entries:
+         cryofdsoi, CryoShimeng, asifcryo, sayanicryo2,
+         lederer2024enhanced, cryogenicmemory.
+[m] 1.4  chakraborty2021 and EDL_2025 cited twice in same paragraph.
+[M] 1.5  Last paragraph duplicates the abstract. Cut to 3-4 sentences.
+[M] 1.6  Add why 10 K (probe-station limit; relevance to 4 K qubit
+         control / SFQ; no data below 10 K). (Editor M5)
+
+---------------------------------------------------------------------
+2. 02_Results.tex
+---------------------------------------------------------------------
+[C] 2.1  Fig 1(d) text says "-3 V"; panel shows rise at +3 V.
+         -> "At large positive bias ... near $+3$~V ... practical
+            positive-voltage limit".
+         Caption (d): "$I_{sw}$ response" -> "Non-switching current
+         $I_{nsw}$"; caption (f): -> "$I_{nsw}$ after wake-up".
+         State mechanism (Editor m7): HZO/IL dielectric conduction vs
+         gate-to-S/D junction.
+[C] 2.2  "MW exceeds 1 V under +-7 V, 50 us" - Fig 3(d) 50 us has no
+         +-7 V. -> "exceeds 1 V for +-6 V/50 us and reaches ~1.4 V at
+         +-7 V/20 us [Fig. 3(e)]".
+[C] 2.3  "$C$$V$", "$PV$" everywhere -> "$C$--$V$", "$P$--$V$".
+[M] 2.4  RT: "nearly merge after ~1e4 cycles" - Fig 2(a): MW~0.4 V at
+         1e4, ~0.15 V at 1e5 -> "$10^{5}$".
+[M] 2.5  Fig 1(g) caption "different programming voltages" ->
+         "different C-V sweep amplitudes (1.5-3 V)". (Editor m6)
+[M] 2.6  Quantify (Editor m5): "substantially reduced leakage",
+         "suppressed leakage", "nearly unchanged", "comparatively
+         stable" -> I_nsw at +-3 V before/after; dVth,LVT < X V.
+[M] 2.7  State explicitly (R1 #4): Vth,HVT shifts ~2 V (Fig 4b) while
+         I_sw peak positions move <0.3 V to 1e4 cycles (Fig 4c,d) ->
+         electrostatic, not ferroelectric, origin.
+[M] 2.8  R1 #3 unanswered: |Vc-|~4 V vs Vc+~2.5 V at 10 K. Add a
+         sentence (built-in field / flat-band offset TaN-p-Si).
+[M] 2.9  R1 #7: Fig 4(g,h) negative peak at -4...-4.5 V is at the edge
+         of the +-5 V PUND window; imprint or depolarization could
+         explain disappearance. Add retention (LVT/HVT, RT & 10 K) and
+         PUND inter-pulse delay; ideally +-6 V PUND at 1e6.
+[m] 2.10 "SiO2" plain text -> SiO$_2$.
+[m] 2.11 Duplicate sentence - delete second "Cycling-induced interface
+         and oxide trapping can then modify...".
+[m] 2.12 "Equation~(6)", "equation (10)" -> \eqref{eq:mfis_capacitance},
+         \eqref{eq:charge_compensation}.
+[m] 2.13 "The gate capacitance then approaches." -> remove period.
+[m] 2.14 "QP, Qit, Qot, Qinj, and QSi" -> math mode.
+[m] 2.15 \subsection{...capacitance:} -> remove trailing colon.
+[m] 2.16 Fig 3 & 4 captions "p-Si/SiO2/HZO/TaN" -> "TaN/HZO/SiO2/p-Si".
+[m] 2.17 Fig 4(c)/(d) caption: add "after -5 V / +5 V initialization".
+[m] 2.18 Delete commented 4i/4j block; header (a--j) -> (a--h).
+[m] 2.19 "readout---the central distinction" -> comma (Editor m2).
+[m] 2.20 "channel.\cite{ACSAMI} Cooling" -> "channel~\cite{ACSAMI}. Cooling".
+[m] 2.21 Fig 2(a) caption +-5 V vs 08_image +-4 V - confirm.
+[m] 2.22 Fig 4 & 5 captions interpretive (Editor m8): cut to data.
+[m] 2.23 Fig 1(e) annotation arrow "significant leakage reduction"
+         points at the switching peak - fix in figure file.
+[m] 2.24 Figure files: "P_r (uC/cm2)" -> "P"; "0" tick on log I_DS
+         axes; "1000Khz" -> "1 MHz"; "kHZ" -> "kHz"; "(PF)" -> "(pF)".
+
+---------------------------------------------------------------------
+3. 03_Discussion.tex
+---------------------------------------------------------------------
+[C] 3.1  Broken sentence: "...polarization-to-channel Cooling to 10 K"
+         -> "...polarization-to-channel coupling. Cooling to 10~K...".
+[C] 3.2  Fig 7 band diagrams: trapped-charge sign reversed. +5 V/1e6
+         panel shows trapped HOLES giving accumulation - holes repel
+         holes -> depletion; needs trapped ELECTRONS. -5 V/1e6 panel
+         shows trapped ELECTRONS giving depletion; needs trapped HOLES
+         (matches Conclusion "hole trapping during erase"). Redraw and
+         reconcile with stable LVT in Fig 4(b).
+[m] 3.3  Fig 7: remove illegible inset C-V thumbnails; delete stray
+         "After cycles: V=-5V" overlay in pristine +5 V panel; caption
+         <= 3 sentences.
+[C] 3.4  Table I: remove manual "TABLE I" and "Table 1:" parbox; use
+         \caption{} with \label after; cite Table~\ref{tab:cmp} in text
+         (never referenced). Add columns: MW, degradation mechanism.
+
+---------------------------------------------------------------------
+4. 04_Conclusion (1).tex
+---------------------------------------------------------------------
+[m] 4.1  "C-V" literal en-dash -> "$C$--$V$".
+[M] 4.2  Add one sentence on +-7 V/1 us result (Fig S3).
+[m] 4.3  Mention N devices / reproducibility.
+
+---------------------------------------------------------------------
+5. 05_Methods.tex
+---------------------------------------------------------------------
+[C] 5.1  "used to activate The implanted dopants simultaneously
+         crystallize" -> "used to activate the implanted dopants and
+         simultaneously crystallize the HZO layer...".
+[C] 5.2  SiO2 1.2 nm vs 0.85 nm (see 0.4).
+[M] 5.3  RTA temperature/time missing.
+[M] 5.4  A_G (gate area in P = Q/A_G) never given.
+[M] 5.5  Constant-current Vth criterion value not stated.
+[M] 5.6  Editor M2 / R1 #13 - add: delay between last stress pulse and
+         readout; interruption duration; C-V sweep start/direction/
+         rate; PUND rise/fall & inter-pulse delays; confirm constant.
+         Annotate in Fig S1(b).
+[M] 5.7  Editor M6 - number of devices, variability.
+[M] 5.8  Editor M5 - why 10 K.
+[m] 5.9  Eq (1): "MW =" -> "\mathrm{MW} =".
+[m] 5.10 \label{eq:pund_current} in align labels only 2nd line.
+[m] 5.11 "$C$$V$" -> "$C$--$V$" (3x).
+[m] 5.12 "nonswitching" -> "non-switching".
+[m] 5.13 \subfloat vs subfigure (see 0.3).
+
+---------------------------------------------------------------------
+6. Supplementary.tex
+---------------------------------------------------------------------
+[C] 6.1  Manual bold text blocks "Figure S1. ..." and "Figure S2. ..."
+         sit under figures LaTeX numbers S2 and S3 and repeat the
+         \caption. Delete the manual blocks.
+[C] 6.2  \label{fig:S2} used twice -> second = fig:S3.
+[C] 6.3  S1 caption "0.85 nm SiO2", "~9 nm HZO" vs Methods 1.2 / 9.49.
+[C] 6.4  S1 figure duplicates Methods Fig S1. Keep one.
+[m] 6.5  \graphicspath{} after use; move to preamble.
+[m] 6.6  "$C$$V$", "$P$$V$" -> with "--".
+[m] 6.7  S3 caption: define/delete "Scenario 2"; state frequency, W/L, N.
+[m] 6.8  S2 caption (c,d) "different read amplitudes" - give values.
+
+---------------------------------------------------------------------
+7. 08_image.tex
+---------------------------------------------------------------------
+[C] 7.1  Obsolete: duplicates every main figure/label, still has
+         Fig 4(i,j) (removed per R1 #9) and commented Fig 6; Fig 2(a)
+         caption says +-4 V. Remove from \input / delete.
+
+---------------------------------------------------------------------
+8. reference.bib
+---------------------------------------------------------------------
+[C] 8.1  Syntax: PyMatching entry, stray "}" after suman2, duplicate
+         key parmar2023demonstration (see 0.1).
+[C] 8.2  Duplicate papers under different keys (reviewer saw [3]=[11]):
+         FeFET3 = de2022demonstration ; FeFET4 = de202228 ;
+         10122209 = ma20232 ; Lederer_model = lederer2023spice ;
+         EDL4 = cho2024exploring ; 80 = EDL1. Keep one key each.
+[C] 8.3  agarwal2025 title Unicode subscripts ">10_12" renders "?10".
+         -> "...Fatigue Free ($>10^{12}$ Cycles)..." with Hf$_{0.5}$
+         Zr$_{0.5}$O$_2$. Same for hoffmann2022/lee2022 titles.
+[C] 8.4  LFN5 author "Fleetwood and D., M." -> "Fleetwood, D. M."
+[M] 8.5  ACSNano1: volume 0 / pages null / year 0 -> fill in.
+[M] 8.6  EDL_2025 pages "1-1" placeholder.
+[m] 8.7  de2022read "Yannick, Raffel" -> "Raffel, Yannick";
+         de202228 "Duenkel" -> D{\"u}nkel; de2021ultra remove *,**,***.
+[m] 8.8  "Advanced Intelligent System" -> "Systems".
+[m] 8.9  DOI fields with braces ("10.1109/{TED}.2024...") break links;
+         SayaniCryo/sayanicryo2 doi contains full URL -> DOI only.
+[m] 8.10 Key "Agrawal_band-diagram" (author is Agarwal; hyphen risky)
+         -> Agarwal_band_diagram; update cites.
+[m] 8.11 Remove unused template leftovers (Abernethy2003, ACS2007,
+         Arduengo*, Eisenstein2005, Coghill2006, Cotton1999,
+         EuropeanCommission2008, Friedman-Hill2003, Johnson1972,
+         Pople2003, Mena2000, eshraghian2021training, PyMatching,
+         ref1ATK, ref2ATK, ohta2014, teherani2014, ...).
+[m] 8.12 2019cryogenic abstract={Abstract}; drop field.
+
+---------------------------------------------------------------------
+9. STILL REQUIRED FROM AUTHORS (new data / text)
+---------------------------------------------------------------------
+[M] 9.1  Retention of LVT & HVT at RT and 10 K + PUND timing (R1 #7).
+[M] 9.2  Readout delay after cycling, held constant (Editor M2).
+[M] 9.3  N devices, error bars on Fig 3(e), Fig 4(b) (Editor M6).
+[M] 9.4  Overlays RT vs 10 K: Vth vs cycles (Fig 2a + 4b), P-V (Fig 2f
+         + 4e) at same sweep amplitude (R1 #2, #12). P_r +-12 @+-3 V
+         (RT) vs +-22 @+-5 V (10 K) not comparable as is.
+[M] 9.5  Fig 3(e): plot LVT and HVT separately (R1 #5, Editor M3).
+[M] 9.6  Trapped-charge estimate dN_t ~ C_g*dVth,HVT/(q*A_G) from
+         Fig 4(b) (Editor M4).
+[M] 9.7  Abstract: "titanium nitride (TaN)" -> "tantalum nitride";
+         define abbreviations; reduce "cryogenic" x6; <= 250 words.
+[M] 9.8  Float placement [t]/\FloatBarrier so Figs 4-5 sit on the pages
+         where discussed (R1 #1).
+=====================================================================
+END
